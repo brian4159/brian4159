@@ -1,0 +1,16 @@
+nclude <stdio.h>
+int check(int y,int m,int d,int days) {
+    if(m < 1 || m > 12 || d < 1 || d > 31)return 0;
+    int month[13] = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+    if ((y % 4 == 0 && y % 100) || y % 400 == 0)month[2] += 1;
+    for (int i = 1; i < m; ++i) {
+         days += month[i];
+    }
+    return days+d;
+}
+
+int main(){
+    int y,m,d,days=0;
+    scanf("%d/%d/%d",&y,&m,&d);
+    printf("%d", check( y, m, d,days));
+    return 0;
