@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brian4159
 - 👀 I’m interested in playing DOTA2
-- 🌱 I’m currently learning font-end
+- 🌱 I’m a font-end two-years practicer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...My email address is brian4159@163.com
 - Because I'm a based learner,so please give me guide on C plusplus .Thanks.
