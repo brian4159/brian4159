@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 巨馍蘸酱
+- 👋 Hi, I’m w
 - 👀 I’m interested in playing DOTA2
 - 🌱 I’m a font-end two-years practicer
 - 💞️ I’m looking to collaborate on ...
