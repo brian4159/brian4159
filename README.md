@@ -1,4 +1,4 @@
-- 👋 Hi, I’m w
+- 👋 Hi, I’m Wang Wei
 - 👀 I’m interested in playing DOTA2
 - 🌱 I’m a font-end two-years practicer
 - 💞️ I’m looking to collaborate on ...
